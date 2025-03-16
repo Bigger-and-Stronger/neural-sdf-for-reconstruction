@@ -1,6 +1,6 @@
-# Neural Implicit Signed Distance Fields for 3D Shapes
+# Neural Implicit Signed Distance Fields for Surface Reconstruction from Point Clouds
 
-A list of academic papers on neural implicit Signed Distance Fields (SDFs) for 3D shapes. Note: Each neural SDF here corresponds to only a shape.
+A list of academic papers on neural implicit Signed Distance Fields (SDFs) for surface reconstruction from point clouds. Note: Each neural SDF here corresponds to only a shape.
 
 I will update this list systematically.
 
