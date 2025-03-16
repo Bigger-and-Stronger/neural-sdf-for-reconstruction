@@ -1,4 +1,4 @@
-# Neural Implicit Signed Distance Fields for 3D shapes
+# Neural Implicit Signed Distance Fields for 3D Shapes
 
 A list of academic papers on neural implicit Signed Distance Fields (SDFs) for 3D shapes. Note: Each neural SDF here corresponds to only a shape.
 
