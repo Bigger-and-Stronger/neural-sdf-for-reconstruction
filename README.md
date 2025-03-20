@@ -13,33 +13,41 @@ I will update this list systematically.
   - SIGGRAPH 2024
   - [[Paper](https://dl.acm.org/doi/10.1145/3658171)][[Project Page](https://qiujiedong.github.io/publications/NeurCADRecon/)][[Code](https://github.com/QiujieDong/NeurCADRecon)]
 
+- Huizong Yang, Yuxin Sun, Ganesh Sundaramoorthi, Anthony Yezzi. *StEik: Stabilizing the Optimization of Neural Signed Distance Functions and Finer Shape Representation*.
+  - NeurIPS 2023
+  - [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2d6336c1c2987e9d1d9894edd593478d-Paper-Conference.pdf)][[Code](https://github.com/sunyx523/StEik)]
+
 - Yi-Fei Feng, Li-Yong Shen, Chun-Ming Yuan, Xin Li. *Deep Shape Representation with Sharp Feature Preservation*.
   -  Computer-Aided Design 2023
   -  [[Paper](https://www.sciencedirect.com/science/article/pii/S0010448522002019)]
 
-- Zixiong Wang, Yunxiao Zhang, Rui Xu, Fan Zhang, Pengshuai Wang, Shuangmin Chen, Shiqing Xin, Wenping Wang, Changhe Tu. *Neural-Singular-Hessian: Implicit Neural Representation of Unoriented Point Clouds by Enforcing Singular Hessian*.
+- Zixiong Wang, Yunxiao Zhang, Rui Xu, Fan Zhang, Pengshuai Wang, Shuangmin Chen, Shiqing Xin, Wenping Wang, Changhe Tu *Neural-Singular-Hessian: Implicit Neural Representation of Unoriented Point Clouds by Enforcing Singular Hessian*.
   - SIGGRAPH Asia 2023
   - [[Paper](https://arxiv.org/abs/2309.01793)][[Project Page](https://bearprin.com/publications/neural-singular-hessian23wang/)][[Code](https://github.com/bearprin/Neural-Singular-Hessian?tab=readme-ov-file)]
   
+- Alexandre Boulch, Renaud Marlet. *POCO: Point Convolution for Surface Reconstruction*.
+  - CVPR 2022
+  - [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Boulch_POCO_Point_Convolution_for_Surface_Reconstruction_CVPR_2022_paper.html)][[Code](https://github.com/valeoai/POCO?tab=readme-ov-file)]
+
 - Hao-Xiang Guo, Yang Liu, Hao Pan, Baining Guo. *Implicit Conversion of Manifold B-Rep Solids by Neural Halfspace Representation*.
   - SIGGRAPH Asia 2022
   - [[Paper](https://arxiv.org/abs/2209.10191)][[Project Page](https://guohaoxiang.github.io/projects/nhrep.html)][[Code](https://github.com/guohaoxiang/NH-Rep)]
+
+- Jingyang Zhang, Yao Yao, Shiwei Li, Tian Fang, David McKinnon, Yanghai Tsin, Long Quan. *Critical Regularizations for Neural Surface Reconstruction in the Wild*.
+  - CVPR 2022
+  - [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Critical_Regularizations_for_Neural_Surface_Reconstruction_in_the_Wild_CVPR_2022_paper.pdf)]
 
 - Yizhak Ben-Shabat, Chamin Hewa Koneputugodage, Stephen Gould. *DiGS: Divergence guided shape implicit neural representation for unoriented point clouds*.
   - CVPR 2022
   - [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ben-Shabat_DiGS_Divergence_Guided_Shape_Implicit_Neural_Representation_for_Unoriented_Point_CVPR_2022_paper.pdf)][[Project Page](https://chumbyte.github.io/DiGS-Site/)][[Code](https://github.com/Chumbyte/DiGS?tab=readme-ov-file)]
 
-- Alexandre Boulch, Renaud Marlet. *POCO: Point Convolution for Surface Reconstruction*.
-  - CVPR 2022
-  - [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Boulch_POCO_Point_Convolution_for_Surface_Reconstruction_CVPR_2022_paper.html)][[Code](https://github.com/valeoai/POCO?tab=readme-ov-file)]
+- Baorui Ma, Zhizhong Han, Yu-Shen Liu, Matthias Zwicker. *Neural-Pull: Learning Signed Distance Functions from Point Clouds by Learning to Pull Space onto Surfaces*.
+  - ICML 2021
+  - [[Paper](https://arxiv.org/abs/2011.13495)][[Code](https://github.com/mabaorui/NeuralPull?tab=readme-ov-file)]
 
 - Peng-Shuai Wang, Yang Liu, Yu-Qi Yang, Xin Tong. Spline *Positional Encoding for Learning 3D Implicit Signed Distance Fields*.
   - IJCAI 2021
   - [[Paper](https://arxiv.org/abs/2106.01553)][[Project Page](https://wang-ps.github.io/spe)][[Code](https://github.com/microsoft/SplinePosEnc?tab=readme-ov-file)]
-
-- Baorui Ma, Zhizhong Han, Yu-Shen Liu, Matthias Zwicker. *Neural-Pull: Learning Signed Distance Functions from Point Clouds by Learning to Pull Space onto Surfaces*.
-  - ICML 2021
-  - [[Paper](https://arxiv.org/abs/2011.13495)][[Code](https://github.com/mabaorui/NeuralPull?tab=readme-ov-file)]
 
 # Paper 2016 - 2020
 - Amos Gropp, Lior Yariv, Niv Haim, Matan Atzmon, Yaron Lipman. *Implicit Geometric Regularization for Learning Shapes*.
