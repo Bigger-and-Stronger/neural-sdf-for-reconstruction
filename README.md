@@ -45,7 +45,7 @@ I will update this list systematically.
   - ICML 2021
   - [[Paper](https://arxiv.org/abs/2011.13495)][[Code](https://github.com/mabaorui/NeuralPull?tab=readme-ov-file)]
 
-- Peng-Shuai Wang, Yang Liu, Yu-Qi Yang, Xin Tong. Spline *Positional Encoding for Learning 3D Implicit Signed Distance Fields*.
+- Peng-Shuai Wang, Yang Liu, Yu-Qi Yang, Xin Tong. *Spline Positional Encoding for Learning 3D Implicit Signed Distance Fields*.
   - IJCAI 2021
   - [[Paper](https://arxiv.org/abs/2106.01553)][[Project Page](https://wang-ps.github.io/spe)][[Code](https://github.com/microsoft/SplinePosEnc?tab=readme-ov-file)]
 
