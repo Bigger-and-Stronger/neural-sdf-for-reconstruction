@@ -54,7 +54,15 @@ I will update this list systematically.
   - ICML 2020
   - [[Paper](https://arxiv.org/abs/2002.10099)][[Code](https://github.com/amosgropp/IGR?tab=readme-ov-file)]
 
+- Matan Atzmon, Yaron Lipman. *SAL: Sign Agnostic Learning of Shapes from Raw Data*.
+  - CVPR 2020
+  - [[Paper](https://arxiv.org/abs/1911.10414)][[Code](https://github.com/matanatz/SAL)]
+
 - Vincent Sitzmann, Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein. *Implicit Neural Representations with Periodic Activation Functions*.
   - NeurIPS 2020
   - [[Paper](https://arxiv.org/abs/2006.09661)][[Project Page](https://www.vincentsitzmann.com/siren/)][[Code](https://github.com/vsitzmann/siren?tab=readme-ov-file)]
+
+- Jeong Joon Park, Peter Florence, Julian Straub, Richard Newcombe, Steven Lovegrove3. *DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation*.
+  - CVPR 2019
+  - [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html)][[Code](https://github.com/facebookresearch/DeepSDF?tab=readme-ov-file)]
 
