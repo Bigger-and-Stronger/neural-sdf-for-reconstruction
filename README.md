@@ -18,6 +18,11 @@ I will update this list systematically.
   - SIGGRAPH 2024
   - [[Paper](https://dl.acm.org/doi/10.1145/3658171)][[Project Page](https://qiujiedong.github.io/publications/NeurCADRecon/)][[Code](https://github.com/QiujieDong/NeurCADRecon)]
 
+- Shengtao Li, Ge Gao, Yudong Liu, Ming Gu, Yu-Shen Liu. *Implicit Filtering for Learning Neural Signed Distance Functions from 3D Point Clouds*.
+  - ECCV 2024
+  - [[Paper](https://arxiv.org/abs/2407.13342)][[Project Page](https://list17.github.io/ImplicitFilter)][[Code](https://github.com/list17/ImplicitFiltering)]
+
+
 ## 2023
 
 - Huizong Yang, Yuxin Sun, Ganesh Sundaramoorthi, Anthony Yezzi. *StEik: Stabilizing the Optimization of Neural Signed Distance Functions and Finer Shape Representation*.
